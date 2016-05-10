@@ -1,0 +1,6 @@
+E:\STUDIES\Windows 10\IoT\Projects\ProjectOxford-ClientSDK-master\Speech\TextToSpeech\Samples-Http\CSharp\bin\Debug\TTSHttpOxford.exe.config
+E:\STUDIES\Windows 10\IoT\Projects\ProjectOxford-ClientSDK-master\Speech\TextToSpeech\Samples-Http\CSharp\bin\Debug\TTSHttpOxford.exe
+E:\STUDIES\Windows 10\IoT\Projects\ProjectOxford-ClientSDK-master\Speech\TextToSpeech\Samples-Http\CSharp\bin\Debug\TTSHttpOxford.pdb
+E:\STUDIES\Windows 10\IoT\Projects\ProjectOxford-ClientSDK-master\Speech\TextToSpeech\Samples-Http\CSharp\obj\Debug\TTSHttpOxford.csprojResolveAssemblyReference.cache
+E:\STUDIES\Windows 10\IoT\Projects\ProjectOxford-ClientSDK-master\Speech\TextToSpeech\Samples-Http\CSharp\obj\Debug\TTSHttpOxford.exe
+E:\STUDIES\Windows 10\IoT\Projects\ProjectOxford-ClientSDK-master\Speech\TextToSpeech\Samples-Http\CSharp\obj\Debug\TTSHttpOxford.pdb
